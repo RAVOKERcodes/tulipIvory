@@ -830,8 +830,8 @@
 
 .u-section-5 .u-layout-cell-2 {
   min-height: 580px;
-  --animation-custom_in-translate_x: 300px;
-  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
@@ -1115,14 +1115,14 @@
     padding-right: 20px;
   }
 }.u-section-7 .u-sheet-1 {
-  min-height: 302px;
+  min-height: 398px;
 }
 
 .u-section-7 .u-custom-html-1 {
-  margin-bottom: 11px;
+  margin-bottom: 0;
   height: auto;
-  min-height: 281px;
-  margin-top: 11px;
+  min-height: 398px;
+  margin-top: 0;
 } .u-section-8 {
   background-image: none;
 }
