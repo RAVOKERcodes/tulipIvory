@@ -195,8 +195,8 @@
 }
 
 .u-section-3 .u-list-1 {
-  margin-top: 33px;
-  margin-bottom: 38px;
+  margin-top: 29px;
+  margin-bottom: 42px;
   grid-template-rows: auto;
 }
 
@@ -275,7 +275,7 @@
 
 .u-section-3 .u-image-3 {
   height: 355px;
-  object-position: 50% 100%;
+  object-position: 100% 100%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
   --animation-custom_in-opacity: 0;
